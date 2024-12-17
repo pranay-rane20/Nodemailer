@@ -4,6 +4,7 @@ This guide provides step-by-step instructions for setting up and using Nodemaile
 
 ## Prerequisites
 
+
 - [Node.js](https://nodejs.org/) installed on your machine.
 - A Google account to generate OAuth2 credentials (ClientID and ClientSecret).
 - Access to the [Google API Console](https://console.developers.google.com/) to create OAuth2 credentials.
